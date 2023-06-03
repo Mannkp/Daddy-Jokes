@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1>img{
+    height: 25px;
+    width: 25px;
+}
+h1{
+    margin: 5vh auto;
+    text-align: center;
+}
+#btn{
+    display: block;
+    height: 7vh;
+    width: 20vw;
+    margin:5vh auto;
+    background-color: rgb(171, 25, 255);
+    color: white;
+    font-size: 2rem;
+    padding: 10px;
+    border:0;
+    border-radius: 10px;
+}
+#joke{
+    height: 50vh;
+    width: 70vw;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
